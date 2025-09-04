@@ -1,0 +1,7 @@
+[2025-09-04 15:14:03,362: INFO/MainProcess] Task faster_whisper_task.transcribe_video[c42baba2-4014-4d2e-99df-1aef34b9a0e5] received
+[2025-09-04 15:14:03,365: WARNING/ForkPoolWorker-3] [변환 시작 => /home/whisper/stt-project/video/20250904/샘플_1.wav]
+[2025-09-04 15:14:05,101: INFO/ForkPoolWorker-3] Processing audio with duration 00:25.392
+[2025-09-04 15:14:05,218: INFO/ForkPoolWorker-3] VAD filter removed 00:08.592 of audio
+[2025-09-04 15:14:05,476: WARNING/ForkPoolWorker-3] [1.36s -> 18.16s] 코로나19 예방수칙입니다. 손을 자주 씻기, 마스크 착용하기, 기침할 땐 입과 코 가리기, 발열, 기침, 인후통 등 증상 의심 시에는 1339 또는 보건소와 상담하시기 바랍니다.
+[2025-09-04 15:14:05,476: WARNING/ForkPoolWorker-3] 2.11
+[2025-09-04 15:14:05,556: INFO/ForkPoolWorker-3] Task faster_whisper_task.transcribe_video[c42baba2-4014-4d2e-99df-1aef34b9a0e5] succeeded in 2.1913884868845344s: {'output_file': '/home/whisper/stt-project/text/20250904/샘플_1.txt'}
